@@ -1,5 +1,6 @@
 # freeanonymousinternet
-Free Anonymous internet ΦFAI fai03a6.co.nr <br />
+Free Anonymous internet ΦFAI<br />
+http://fai03a6.co.nr <br />
 Download fai2.0.*.exe self extract and execute. Or, <br />
 Download fai2.0.*.zip and extract.<br />
 Run fai_choosedatadir shortcut for the first time, and Fai.exe later.<br />
