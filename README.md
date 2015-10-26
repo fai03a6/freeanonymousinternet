@@ -1,7 +1,7 @@
 FAI Core integration/staging tree
 =====================================
 
-https://f-a-i.net
+http://f-a-i.net
 
 What is ΦFAI?
 ----------------
